@@ -1,0 +1,45 @@
+What is the business problem you are trying to solve? 
+->Here I am trying to solve the problem of providing E-Commerce facility to the remote Areas where not only upper class people but also the less privileged have the access two personalized facilities provided by the E-Commerce site.The business problem we are trying to solve is the global consumer packaged goods company's goal of doubling revenues while keeping costs minimal within eight years. The challenge lies in achieving rapid growth by maximizing the performance of thousands of salespeople across worldwide distribution points. The company needs to overcome obstacles such as ensuring the right products are available in the right quantities on store shelves at the right time, managing diverse global contacts and regional business units with no common skill set or analytics strategies, and empowering the sales force to make informed micro decisions for improved macro performance. The ultimate objective is to stay competitive in multiple markets and meet the growth goals set by the company. 
+
+What's the first step you'll take? 
+->The first step is to make a plan about the distribution of responsibilities among the departments of Finance operations and future planning using analytics and research about consumer requirement and needs.The first step in tackling this project would be to conduct a thorough assessment of the current state of the company's data management, analytics capabilities, and sales operations. This assessment will help identify existing strengths, weaknesses, and gaps that need to be addressed.
+Stakeholder Interviews: Engage with key stakeholders, including sales managers, regional business units, IT personnel, and data analysts. Understand their perspectives, challenges, and requirements related to sales performance, inventory management, and data analytics. This will provide insights into the current pain points and opportunities for improvement.
+
+What is your approach to developing a Hypothesis?  (Include your Hypothesis?
+->I would use predictive and descriptive analysis because descriptive analysis would involve analysing the data which has historical inside into what has happened in the past descriptive analysis AIIMS to provide the clear understanding of the data it helps to identify the Trends and relationship and the characteristics of the data predictive analysis on the other hand would help us in understanding the predictions or cast about future events or outcomes based upon those historical data patterns it would involved the you said of machine learning algorithms data mining techniques and other similar patterns to predict future outcomes.
+When developing a hypothesis, it is important to follow a structured approach to ensure clarity and testability. Here is an outline of the steps involved in formulating a hypothesis, along with an example hypothesis related to the project case:
+
+Identify the Problem: Clearly define the problem or objective you want to address. In this case, the problem is maximizing sales performance and revenue growth while minimizing costs for the global consumer packaged goods company.
+
+Gather Background Information: Conduct research and gather relevant information about the industry, market trends, consumer behavior, and internal factors. This background information will help inform the hypothesis.
+
+Formulate a Research Question: Based on the problem statement and background information, develop a research question that addresses the specific aspect you want to investigate. The research question should be focused and specific.
+
+Hypothesis: The implementation of advanced business analytics techniques, supported by a unified data platform and real-time insights provided to smartphone-equipped sales representatives, will result in improved sales performance and revenue growth for the global consumer packaged goods company.
+
+In this hypothesis, the independent variable is the implementation of advanced business analytics techniques and a unified data platform, while the dependent variables are sales performance and revenue growth. The hypothesis suggests that by leveraging advanced analytics techniques and providing real-time insights to sales representatives, the company will experience positive impacts on its sales performance and revenue growth.
+
+What data would you collect? 
+->The data would depend upon the requirements and needs of the uses for instance it would depend upon the sales volume stock prices or measurable outcome of interest it may also include variables collected from various sources such as customer data transactional data responses from various service which have been conducted social media data and other relevant data sources other forms of data may include historical data that would include a significant amount of data that includes both the target valuable and the independent variable.
+
+How would you analyze the data? 
+->In order to analyse data several steps may be followed which may involve examination extracting meaning full inside from a data set and gaining the useful features that maybe beneficial for the customers it may be done by defining the objectives clearly setting the goals and objectives of our data analysis
+Exploration of data which may involve usage of histograms scatter plots and descriptive analysis selecting appropriate analysis techniques like time series cluster techniques regression analysis or machine learning algorithms interpreting and validating the results which may includes the conclusion that whether they align with the ultimate goals and Expectations or not and lastly it would be related to the refinement and modification of the data that while the services are being offered to the users is there a scope of improvement or refinement if it exist then suitable techniques must be followed for refinement as well.
+
+How would you present the information to the client? 
+->When presenting the information to the client I would make sure that the requirements are being suited to the knees of the user that is the audience background their level of technical knowledge and interest are being understood well I would present the information using visualisations like charts graphs histograms and appropriate message convince techniques I would provide context and interpretations and the significance of the result by providing Benchmarks and appropriate technical terms I would use story telling techniques in addition I would also be make sure that I am transparent and if there are any limitations or uncertainity in my solution then it should also be conveyed to the user as well I would make sure that I prepare the supporting materials in the form of written report slides and dashboard and finally it would be more attractive if it is presented in the form of presentation or Excel or R visual etc.
+
+What insights did you develop? 
+->The insights developed would include that whether the products and services cater the needs of all sections of the society not only the upper classes but also the unprivileged once secondly solution should be feasible and transparent in the sense that it is easy to use flexible and do not have any kind of constraints thirdly I will make sure that the solutions I have developed has appropriate rooms of improvement as well so that that can ensure transparency and flexibility in my solution.
+
+What recommendations would you make? 
+->Here are some specific examples of how these principles can be applied:
+
+Feasibility: Solutions should be feasible in terms of cost, resources, and time. They should also be realistic and achievable.
+Transparency: Solutions should be transparent in terms of how they work and how they are implemented. This means that users should be able to understand how the solution works and how it will affect them.
+Ease of use: Solutions should be easy to use and understand. They should be user-friendly and intuitive.
+Flexibility: Solutions should be flexible enough to be adapted to different needs and situations. They should be able to be customized and scaled to meet the needs of different users.
+Room for improvement: Solutions should have appropriate room for improvement. This means that they should be designed in a way that allows them to be updated and improved over time.
+By following these principles, businesses can ensure that their products and services are accessible to everyone, regardless of their socioeconomic status. This can help to create a more equitable and inclusive society.
+
+In addition to the principles you mentioned, I would also add that it is important to ensure that solutions are scalable and sustainable. Scalability refers to the ability of a solution to be adapted to meet increasing demand. Sustainability refers to the ability of a solution to be maintained and operated over time. By ensuring that solutions are scalable and sustainable, businesses can ensure that they have a long-term impact on society.
